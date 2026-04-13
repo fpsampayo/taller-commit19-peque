@@ -1,7 +1,7 @@
 requests
 
 # Development
-pytest==5.2.0
+pytest==9.0.3
 pdbpp
 
 flake8
